@@ -1,1 +1,1 @@
-Olá, aqui vou tentar fazer uma agenda telefônica em python.
+Aqui vou tentar fazer uma agenda telefônica em python.
